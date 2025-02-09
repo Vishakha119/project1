@@ -1,0 +1,24 @@
+ 1  sudo apt-get update
+    2  ls
+    3  touch file1
+    4  ls
+    5  cat >>file1
+    6  ls
+    7  cat file1
+    8  cat >file2
+    9  cat file2
+   10  ls
+   11  cat file1 file2> file3
+   12  cat file3
+   13  ls
+   14  cat >>file3
+   15  cat file3
+   16  vi file3
+   17  cat file3
+   18  vi file4
+   19  mkdir test1
+   20  ls
+   21  cd test1
+   22  ls
+   23  pwd 
+   24  history
